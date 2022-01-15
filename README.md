@@ -30,8 +30,7 @@ This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
 
-<img src = "https://github.com/OkomoJacob/googleMaps2.0/blob/main/snips/googleMap.PNG"><br>
-<img src = "https://github.com/OkomoJacob/googleMaps2.0/blob/main/snips/satelliteMap.PNG">
+<img src = "https://github.com/OkomoJacob/googleMaps2.0/blob/main/snips/googleMap.PNG"><img src = "https://github.com/OkomoJacob/googleMaps2.0/blob/main/snips/satelliteMap.PNG"><br>
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
