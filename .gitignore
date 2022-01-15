@@ -48,11 +48,12 @@ app.*.map.json
 # generated_plugin_registrant
 generated_plugin_registrant.dart
 .flutter-plugins
-tests/
+test/
 analysis_options.yaml
 
 # Private Configs and Keys
 env/
+.env
 
 # Miscellaneous
 *.class
